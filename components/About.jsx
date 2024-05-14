@@ -148,7 +148,7 @@ const About = () => {
                         <Tabs defaultValue="personal">
                             <TabsList className="w-full grid xl:grid-cols-3 xl:max-w-[520px] xl:border dark:border-none">
                                 <TabsTrigger className="w-[162px] xl:w-auto" value="personal">Personal Info</TabsTrigger>
-                                <TabsTrigger className="w-[162px] xl:w-auto" value="qualifications">Qualifications</TabsTrigger>
+                                <TabsTrigger className="w-[162px] xl:w-auto" value="qualifications">Experience</TabsTrigger>
                                 <TabsTrigger className="w-[162px] xl:w-auto" value="skills">Skills</TabsTrigger>
                             </TabsList>
                             {/** tabs content */}
@@ -185,7 +185,7 @@ const About = () => {
                                 {/** qualifications */}
                                 <TabsContent value='qualifications'>
                                     <div>
-                                        <h3 className="h3 mb-8 text-center xl:text-left">Your journey</h3>
+                                        <h3 className="h3 mb-8 text-center xl:text-left">My journey</h3>
                                         {/** experience & education wrapper */}
                                         <div className="grid md:grid-cols-2 gap-y-8">
                                             {/** experience */}
