@@ -17,7 +17,7 @@ const servicesData = [
     {
         icon: <HandPlatter size={72} strokeWidth={0.8} />,
         title: 'Customer Service',
-        description: 'I have over 6 years of Customer Service experience and 2 year held in a Supervisor role. I approach every issue with patience, understanding, and a passion for problem solving.'
+        description: 'I have over 6 years of Customer Service experience with 2 years in a Supervisor role. I approach every issue with patience, understanding, and a passion for problem solving.'
 
     },
 ]
