@@ -9,7 +9,7 @@ const Certifications = () => {
         <h2 className="section-title mb-8 xl:mb-16 text-center mx-auto">My Certifications</h2>
           <div className="flex flex-col">
             <div className="flex flex-row">
-              <h4 className="h4 flex flex-row  hover:text-rose-200"><a href="https://www.credly.com/users/allison-daniel.711856f0" target="_blank">Coding Temple Bootcamp Certifications</a></h4>
+              <h4 className="h4 flex flex-row tex-primary hover:text-rose-200"><a href="https://www.credly.com/users/allison-daniel.711856f0" target="_blank">Coding Temple Bootcamp Certifications</a></h4>
               <Link className="text-primary h-[23px] w-[23px] mt-1 pl-1" />
             </div>
               <div className="flex flex-row flex-wrap">
