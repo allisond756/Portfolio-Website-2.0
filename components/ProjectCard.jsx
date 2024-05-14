@@ -14,10 +14,10 @@ const ProjectCard = ({project}) => {
           xl:bg-no-repeat overflow-hidden"
         >
           <Image 
-            className="absolute sm:ml-12 bottom-0 shadow-2xl" 
+            className="absolute sm:ml-12 bottom-0 shadow-2xl mr-9" 
             src={project.image} 
-            width={375} 
-            height={80} 
+            width={350} 
+            height={250} 
             alt='' 
             priority 
           />
