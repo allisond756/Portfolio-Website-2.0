@@ -14,7 +14,7 @@ const Contact = () => {
             </div>
             <h1 className="h1 max-w-md mb-8">Contact Page</h1>
             <p className="subtitle max-w-[400px]">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat, hic.
+              My perfered means of communication is the email listed below.
             </p>
           </div>
           {/** illustration */}
