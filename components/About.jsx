@@ -35,15 +35,15 @@ const qualificationData = [
        title: 'education',
        data: [
         {
-            university: 'Coding Temple',
-            qualification: 'Full-Stack Engineering Bootcamp',
-            years: '2023'
-
-        },
-        {
             university: 'Google',
             qualification: 'Data Analytics Course',
             years: '2024'
+
+        },
+        {
+            university: 'Coding Temple',
+            qualification: 'Full-Stack Engineering Bootcamp',
+            years: '2023'
 
         },
         {
@@ -60,27 +60,28 @@ const qualificationData = [
             {
                 company: 'Whole Foods Market',
                 role: 'Store Support Team Member',
+                years: '2022-2023'
+    
+            },
+            {
+                company: 'Whole Foods Market',
+                role: 'Store Scanning Specialist',
+                years: '2021-2022'
+    
+            },
+            {
+                company: 'Whole Foods Market',
+                role: 'Store Support Supervisor',
+                years: '2019-2021'
+    
+            },
+            {
+                company: 'Whole Foods Market',
+                role: 'Store Support Team Member',
                 years: '2017-2019'
     
             },
-         {
-             company: 'Whole Foods Market',
-             role: 'Store Support Supervisor',
-             years: '2019-2021'
- 
-         },
-         {
-             company: 'Whole Foods Market',
-             role: 'Store Scanning Specialist',
-             years: '2021-2022'
- 
-         },
-         {
-            company: 'Whole Foods Market',
-            role: 'Store Support Team Member',
-            years: '2022-2023'
-
-        },
+         
         ], 
      },
 ]
