@@ -5,13 +5,13 @@ const servicesData = [
     {
         icon: <GanttChartSquare size={72} strokeWidth={0.8} />,
         title: 'Web Design',
-        description: 'During the course of my Full-Stack Bootcamp I found a passion for front-end development. In my free time I love creating mockup websites some of which you can view on my Projects Page!'
+        description: 'During the course of my Full-Stack Bootcamp I found a passion for front-end development. In my free time I love creating mockup websites. You can view some of my projects on my Projects page or on my GitHub!'
 
     },
     {
         icon: <Blocks size={72} strokeWidth={0.8} />,
         title: 'Web Development',
-        description: 'While I love making websites look asthetically pleasing I also like to make sure they are functional and responsive.'
+        description: 'I love making websites look nice but I also like to make sure they are functional and responsive.'
 
     },
     {
