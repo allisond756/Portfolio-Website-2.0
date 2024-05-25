@@ -17,6 +17,14 @@ import ProjectCard from '@/components/ProjectCard';
 
 const projectData = [
   {
+    image: '/work/4.png',
+    category: 'nextjs / javascript',
+    name: 'CameraExchange - Next.js Website',
+    description: 'Online store for new and vintage cameras. ',
+    link: 'https://cameraexchange.netlify.app',
+    github: 'https://github.com/allisond756/CameraExchange',
+  },
+  {
     image: '/work/1.png',
     category: 'nextjs / typescript',
     name: 'Plant Shop - Next.js Website',
@@ -39,14 +47,6 @@ const projectData = [
     description: 'Flask app used to handle CRUD operations for MovieWatch Site.',
     link: 'https://flask-movie-app.onrender.com',
     github: 'https://github.com/allisond756/flask-movie-app',
-  },
-  {
-    image: '/work/4.png',
-    category: 'nextjs / javascript',
-    name: 'CameraExchange - Next.js Website',
-    description: 'Online store for new and vintage cameras. ',
-    link: 'https://cameraexchange.netlify.app',
-    github: 'https://github.com/allisond756/CameraExchange',
   },
 ];
 

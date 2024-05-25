@@ -5,6 +5,14 @@ import ProjectCard from "@/components/ProjectCard";
 
 const projectData = [
   {
+    image: '/work/4.png',
+    category: 'flask',
+    name: 'CameraExchange - Next.js Website',
+    description: 'Next.js app using Sanity CMS and Stripe for payments. Styled with Tailwind. ',
+    link: 'https://cameraexchange.netlify.app',
+    github: 'https://github.com/allisond756/CameraExchange',
+  },
+  {
     image: '/work/1.png',
     category: 'next.js',
     name: 'Plant Shop - Next.js Website',
@@ -27,14 +35,6 @@ const projectData = [
     description: 'Flask App with minimal functionality, used to handle CRUD operations for MovieWatch website.',
     link: 'https://flask-movie-app.onrender.com',
     github: 'https://github.com/allisond756/flask-movie-app',
-  },
-  {
-    image: '/work/4.png',
-    category: 'flask',
-    name: 'CameraExchange - Next.js Website',
-    description: 'Next.js app using Sanity CMS and Stripe for payments. Styled with Tailwind. ',
-    link: 'https://cameraexchange.netlify.app',
-    github: 'https://github.com/allisond756/CameraExchange',
   },
 ];
 
