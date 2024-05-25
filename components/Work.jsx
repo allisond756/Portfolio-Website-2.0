@@ -19,7 +19,7 @@ const projectData = [
   {
     image: '/work/1.png',
     category: 'nextjs / typescript',
-    name: 'Plant Shop Website',
+    name: 'Plant Shop - Next.js Website',
     description: 'Learn about the care conditions for all your favorite plants! (WIP)',
     link: 'https://statuesque-kitsune-17fac8.netlify.app',
     github: 'https://github.com/allisond756/Flower-Shop',
@@ -27,7 +27,7 @@ const projectData = [
   {
     image: '/work/2.png',
     category: 'react / typescript',
-    name: 'MovieWatch React Website',
+    name: 'MovieWatch - React Website',
     description: 'Browse movies currently in theatres and enter them to your dashboard!',
     link: 'https://meek-elf-feedfd.netlify.app',
     github: 'https://github.com/allisond756/Final-Project-Movie-App',
@@ -35,10 +35,18 @@ const projectData = [
   {
     image: '/work/3.png',
     category: 'flask / html / css',
-    name: 'MovieHub Flask Website',
+    name: 'MovieHub - Flask Website',
     description: 'Flask app used to handle CRUD operations for MovieWatch Site.',
     link: 'https://flask-movie-app.onrender.com',
     github: 'https://github.com/allisond756/flask-movie-app',
+  },
+  {
+    image: '/work/4.png',
+    category: 'nextjs / javascript',
+    name: 'CameraExchange - Next.js Website',
+    description: 'Online store for new and vintage cameras. ',
+    link: 'https://cameraexchange.netlify.app',
+    github: 'https://github.com/allisond756/CameraExchange',
   },
 ];
 

@@ -7,7 +7,7 @@ const projectData = [
   {
     image: '/work/1.png',
     category: 'next.js',
-    name: 'Plant Shop Website',
+    name: 'Plant Shop - Next.js Website',
     description: 'Work in Progress. Created using reusable Typescript components, utilizes plant API for plant information, and styled with Tailwind.',
     link: 'https://statuesque-kitsune-17fac8.netlify.app',
     github: 'https://github.com/allisond756/Flower-Shop',
@@ -15,7 +15,7 @@ const projectData = [
   {
     image: '/work/2.png',
     category: 'react',
-    name: 'MovieWatch React Website',
+    name: 'MovieWatch - React Website',
     description: 'Uses MovieDB API for movie information, uses Auth0 for user authentication, allows user use CRUD operations in their Watchlist Dashboard, and styled with Tailwind & CSS.',
     link: 'https://meek-elf-feedfd.netlify.app',
     github: 'https://github.com/allisond756/Final-Project-Movie-App',
@@ -23,10 +23,18 @@ const projectData = [
   {
     image: '/work/3.png',
     category: 'flask',
-    name: 'MovieHub Flask Website',
+    name: 'MovieHub - Flask Website',
     description: 'Flask App with minimal functionality, used to handle CRUD operations for MovieWatch website.',
     link: 'https://flask-movie-app.onrender.com',
     github: 'https://github.com/allisond756/flask-movie-app',
+  },
+  {
+    image: '/work/4.png',
+    category: 'flask',
+    name: 'CameraExchange - Next.js Website',
+    description: 'Next.js app using Sanity CMS and Stripe for payments. Styled with Tailwind. ',
+    link: 'https://cameraexchange.netlify.app',
+    github: 'https://github.com/allisond756/CameraExchange',
   },
 ];
 
