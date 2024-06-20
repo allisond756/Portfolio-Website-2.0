@@ -17,6 +17,14 @@ import ProjectCard from '@/components/ProjectCard';
 
 const projectData = [
   {
+    image: '/work/5.png',
+    category: 'nextjs / typescript',
+    name: 'BismuthBrewing - Next.js Website',
+    description: 'Landing page for a brewing company ',
+    link: 'https://bismuthbrewing.netlify.app/',
+    github: 'https://github.com/allisond756/Ecommerce-Brewery',
+  },
+  {
     image: '/work/4.png',
     category: 'nextjs / javascript',
     name: 'CameraExchange - Next.js Website',
